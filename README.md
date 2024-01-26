@@ -1,0 +1,1 @@
+I have created the JupterLab project. The main goals of the project is to make a dashboard along with extracing the data of stock and revenue related from web of Tesla and GameStop. I have also explained everything in markdown cells.
